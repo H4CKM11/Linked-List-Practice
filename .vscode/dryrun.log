@@ -1,0 +1,5 @@
+make.exe --dry-run --keep-going --print-directory
+make: Entering directory 'f:/Programming/Linked List/Student Records'
+make: 'a.exe' is up to date.
+make: Leaving directory 'f:/Programming/Linked List/Student Records'
+ 
